@@ -1,0 +1,51 @@
+# Welcome to EventsPlus created by jamesg31!!!
+# Currently using Version 0.3!!
+
+# You can use default Bukkit color codes with the prefix &
+
+# Colors are:
+# &0	BLACK
+# &1	DARK BLUE
+# &2	DARK GREEN
+# &3	DARK AQUA
+# &4	DARK RED
+# &5	DARK PURPLE 
+# &6	GOLD
+# &7	GRAY
+# &8	DARK GRAY
+# &9	INDIGO
+# &A    GREEN
+# &B	AQUA
+# &C	RED
+# &D	PINK
+# &E	YELLOW
+# &F	WHITE
+# &M	STRIKE THROUGH
+# &N	UNDERLINED
+# &L	BOLD
+# &K	RANDOM
+# &O	ITALIC
+
+# When you join!
+playerjoinactivated: true
+playerjoinmessage: "&b&lWelcome!"
+
+# When you die!
+playerdeathactivated: true
+playerdeathmessage: "&b&lOof!"
+
+# When your thrown egg lands!
+eggthrowactivated: true
+eggthrowmessage: "&b&lYou threw an egg!"
+
+# When you enter a bed!
+bedenteractivated: true
+bedentermessage: "&b&lNight Night!"
+
+# When you leave a bed!
+bedleaveactivated: true
+bedleavemessage: "&b&lEnjoy the rest?"
+
+# When you drop an item!
+dropitemactivated: true
+dropitemmessage: "&b&lGonna pick that up!"
