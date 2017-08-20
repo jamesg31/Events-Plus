@@ -1,5 +1,5 @@
 # Welcome to EventsPlus created by jamesg31!!!
-# Currently using Version 0.3!!
+# Currently using Version 0.4!!
 
 # You can use default Bukkit color codes with the prefix &
 
@@ -48,4 +48,40 @@ bedleavemessage: "&b&lEnjoy the rest?"
 
 # When you drop an item!
 dropitemactivated: true
-dropitemmessage: "&b&lGonna pick that up!"
+dropitemmessage: "&b&lGonna pick that up?"
+
+# When you pickup an item!
+pickupitemactivated: true
+pickupitemmessage: "&b&lOuch My Back!!!"
+
+# When you change gamemodes!
+gamemodeactivated: true
+gamemodemessage: "&b&lCHEATER!!"
+
+# When you consume an item (eat)!
+consumeactivated: true
+consumemessage: "&b&lYum! :P"
+
+# When you shear an entity!
+shearactivated: true
+shearmessage: "&b&lDont cut yourself!"
+
+# When you fish!
+fishactivated: true
+fishmessage: "&b&lGood Luck!"
+
+# When you sneak!
+sneakactivated: true
+sneakmessage: "&b&lAhh!"
+
+# When you sprint!
+sprintactivated: true
+sprintmessage: "&b&lSPEED!"
+
+# When you use a leash!
+leashactivated: true
+leashmessage: "&b&lCant get away now!"
+
+# When you change xp levels!
+xpchangeactivated: true
+xpchangemessage: "&b&lExperience!!"
